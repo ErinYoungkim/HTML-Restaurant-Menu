@@ -78,9 +78,22 @@ table {
     border: 3px solid black;
     width: 100%;
 }
-  
+
 td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+
+.currentNav {
+    font-weight: bold;
+}
+.holiday-banner {
+border: 2px solid orange;
+background-color: orange;
+}
+.footer-content{
+    border: 2px solid green;
+    border-radius: 10px;
+    background-color: white;
 }
